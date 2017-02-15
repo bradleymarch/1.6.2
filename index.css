@@ -1,0 +1,109 @@
+.logo {
+	height: 50px;
+	margin: auto;
+	display: block;
+	padding: 20px 0 20px 0;
+}
+button {
+	margin: auto;
+	display: block;
+	background-color: #49DC77;
+	width: 320px;
+	padding: 15px 0px 15px 0px;
+	border: 2px;
+	color: white;
+	height: 55px;
+	border-radius: 10px;
+	font-size: 20px;
+
+}
+form {
+	padding: 0 40px 0 40px;
+}
+}
+.form-heading {
+	font-family: helvetica;
+}
+h2 {
+	font-family: arial;
+	font-size: 36px;
+	font-weight: normal;
+}
+}
+* {
+	box-sizing: border-box;
+
+}
+
+main {
+	background-color: #0EB4E8;
+	padding-bottom: 80px;
+}
+.login-container {
+	display: block;
+	background color: white;
+	border-radius: 10px;
+
+}
+
+.label {
+	background-color: white;
+	margin: left;
+}
+.top-container {
+
+	display: block;
+	margin: auto;
+	width: 400px;
+	height: 500px;
+	background-color: white;
+	border-radius: 10px;
+	
+}
+.form-heading	{
+	background-color: white;
+	text-align: center;
+	padding-top: 40px;
+
+}
+
+.email-input {
+
+	margin: auto;
+	display: block;
+	width: 320px;
+	height: 55px;
+	margin: 0px 0px 15px 0px;
+	font-size: 18px;
+    padding: 0 0 0 6px;
+	border: 2px solid #BCBDBE;
+	border-radius: 10px;
+
+}
+input {
+	outline: none;
+}
+.footer {
+	text-align: center;
+	font-size: 12px;
+	font-family: arial;
+	padding-top: 20px;
+}
+
+.password-input {
+	margin: auto;
+	display: block;
+	border-radius: 10px;
+	width: 320px;
+	height: 55px;
+	margin: 0px 0px 15px 0px;
+	border: 2px solid #BCBDBE;
+	font-size: 18px;
+    padding: 0 0 0 6px;
+}
+.p {
+
+	height: 20px;
+	margin: auto;
+	text-align: center;
+}
